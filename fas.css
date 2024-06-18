@@ -12,6 +12,9 @@ body{
 h1{
     text-align: center;   
 }
+.submit{
+    transform: translateY(50px);
+}
 .box{
     transform: translateY(50px);
     text-decoration: underline ;
